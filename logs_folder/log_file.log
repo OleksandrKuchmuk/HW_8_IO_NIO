@@ -357,3 +357,7 @@ Read: Some message from Alex
 [INFO] 2022-08-26 11:15:53.738 Task4:22 - Folder: VA_Best_Ukrainian_Patriot_Songs 
 [INFO] 2022-08-26 11:16:58.979 Task5:18 - Initial User: User{name='Alex', age=40} 
 [INFO] 2022-08-26 11:16:59.009 Task5:21 - Loaded User from file: User{name='Alex', age=40} 
+[INFO] 2022-08-26 11:17:57.068 SomeBuffer:30 - 
+Write: Some message from Alex 
+[INFO] 2022-08-26 11:17:57.081 SomeBuffer:50 - 
+Read: Some message from Alex 
