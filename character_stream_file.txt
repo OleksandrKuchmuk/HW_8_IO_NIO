@@ -1,0 +1,2 @@
+
+Hello, it is a character output stream

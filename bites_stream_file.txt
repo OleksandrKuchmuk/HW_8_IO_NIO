@@ -1,0 +1,4 @@
+
+Hello to our program, it is a binary output stream
+Hello to our program, it is a binary output stream
+Hello to our program, it is a binary output stream
