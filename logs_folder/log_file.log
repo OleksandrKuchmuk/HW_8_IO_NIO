@@ -1,24 +1,193 @@
-[INFO] 2022-08-26 10:08:54.407 Task1:41 - From file we get: Hello to our program, it is a binary output stream 
-[INFO] 2022-08-26 10:09:48.504 Task1:41 - From file we get: Hello to our program, it is a binary output streamHello to our program, it is a binary output stream 
-[INFO] 2022-08-26 10:11:31.955 Task1:41 - From file we get: Hello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output stream 
-[INFO] 2022-08-26 10:12:26.724 Task1:41 - From file we get: Hello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output stream 
-[INFO] 2022-08-26 10:13:33.814 Task1:41 - From file we get: Hello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output stream 
-[INFO] 2022-08-26 10:14:41.568 Task1:41 - From file we get: Hello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output stream 
-[INFO] 2022-08-26 10:14:41.584 Task1:71 -  From file we get: Hello, it is a character output stream 
-[INFO] 2022-08-26 10:15:46.124 Task1:41 - From file we get: Hello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output streamHello to our program, it is a binary output stream
+[INFO] 2022-08-24 18:59:08.025 Main_Task1:39 - Hello to our program, it is a binary output stream
  
-[INFO] 2022-08-26 10:15:46.124 Task1:71 - From file we get: Hello, it is a character output stream
+[INFO] 2022-08-24 18:59:08.043 Main_Task1:57 - Hello, it is a character output stream
  
-[INFO] 2022-08-26 10:18:24.800 Task1:41 - From file we get: 
-Hello to our program, it is a binary output stream 
-[INFO] 2022-08-26 10:18:24.808 Task1:71 - 
-From file we get: Hello, it is a character output stream 
-[INFO] 2022-08-26 10:18:50.727 Task1:41 - From file we get: 
+[INFO] 2022-08-24 18:59:35.744 Main_Task1:39 - Hello to our program, it is a binary output stream
 Hello to our program, it is a binary output stream
-Hello to our program, it is a binary output stream 
-[INFO] 2022-08-26 10:18:50.743 Task1:71 - From file we get: Hello, it is a character output stream 
-[INFO] 2022-08-26 10:26:46.887 Task1:54 - From file we get: 
-Hello to our program, it is a binary output stream
-Hello to our program, it is a binary output stream
-Hello to our program, it is a binary output stream 
-[INFO] 2022-08-26 10:26:46.895 Task1:86 - From file we get: Hello, it is a character output stream 
+ 
+[INFO] 2022-08-24 18:59:35.767 Main_Task1:57 - Hello, it is a character output stream
+Hello, it is a character output stream
+ 
+[INFO] 2022-08-24 19:12:17.229 Task2:30 - File without buffer reads : 365741 milliseconds 
+[INFO] 2022-08-24 19:12:17.691 Task2:47 - File with buffer (size 65536) reads : 455 milliseconds 
+[INFO] 2022-08-24 19:19:21.583 Task2:30 - File without buffer reads : 340518 milliseconds 
+[INFO] 2022-08-24 19:19:22.035 Task2:47 - File with buffer (typical size) reads : 446 milliseconds 
+[INFO] 2022-08-24 19:28:54.356 Task2:30 - File without buffer reads : 329320 milliseconds 
+[INFO] 2022-08-24 19:28:54.776 Task2:47 - File with buffer (size 16384) reads : 417 milliseconds 
+[INFO] 2022-08-25 13:08:04.520 Task3:42 - IO Exception in input binary stream 
+[INFO] 2022-08-25 13:09:47.995 Task3:42 - IO Exception in input binary stream 
+[INFO] 2022-08-25 13:12:41.851 Task3:42 - IO Exception in input binary stream 
+[INFO] 2022-08-25 14:55:25.409 Task3:54 - //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 14:55:25.412 Task3:54 - //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 14:55:25.412 Task3:54 - //      Read data from file. 
+[INFO] 2022-08-25 14:55:25.413 Task3:54 - //      search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 14:55:51.083 Task3:54 - //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 14:55:51.087 Task3:54 - //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 14:55:51.088 Task3:54 - //      Read data from file. 
+[INFO] 2022-08-25 14:55:51.088 Task3:54 - //      search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 14:57:53.223 Task3:59 - //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 14:57:53.227 Task3:59 - //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 14:57:53.228 Task3:59 - //      Read data from file. 
+[INFO] 2022-08-25 14:57:53.228 Task3:59 - //      search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 14:57:53.228 Task3:59 - //        System.out.println(strings[6]); 
+[INFO] 2022-08-25 14:57:53.229 Task3:59 - //            System.out.println(s); 
+[INFO] 2022-08-25 14:57:53.229 Task3:59 - //            Matcher m = p.matcher(s); 
+[INFO] 2022-08-25 14:57:53.230 Task3:59 - //        System.out.println("strings[0] \n"+strings[5]); 
+[INFO] 2022-08-25 14:57:53.230 Task3:59 - //        LOGGER.info("Displays to console all the comments in file: \n"+inputString); 
+[INFO] 2022-08-25 14:58:31.697 Task3:59 - //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 14:58:31.701 Task3:59 - //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 14:58:31.702 Task3:59 - //      Read data from file. 
+[INFO] 2022-08-25 14:58:31.703 Task3:59 - //      search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 14:58:31.703 Task3:59 - //        System.out.println(strings[6]); 
+[INFO] 2022-08-25 14:58:31.704 Task3:59 - //            System.out.println(s); 
+[INFO] 2022-08-25 14:58:31.705 Task3:59 - //            Matcher m = p.matcher(s); 
+[INFO] 2022-08-25 14:58:31.706 Task3:59 - //        System.out.println("strings[0] \n"+strings[5]); 
+[INFO] 2022-08-25 14:58:31.706 Task3:59 - //        LOGGER.info("Displays to console all the comments in file: \n"+inputString); 
+[INFO] 2022-08-25 15:04:02.812 Task3:54 -       Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 15:04:02.817 Task3:54 -       name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 15:04:02.818 Task3:54 -       Read data from file. 
+[INFO] 2022-08-25 15:04:02.818 Task3:54 -       search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 15:04:25.296 Task3:54 - //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 15:04:25.299 Task3:54 - //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 15:04:25.300 Task3:54 - //      Read data from file. 
+[INFO] 2022-08-25 15:04:25.300 Task3:54 - //      search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 15:05:52.650 Task3:54 -       Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 15:05:52.654 Task3:54 -       name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 15:05:52.655 Task3:54 -       Read data from file. 
+[INFO] 2022-08-25 15:05:52.656 Task3:54 -       search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 15:06:25.227 Task3:54 -       Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 15:06:25.230 Task3:54 -       name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 15:06:25.231 Task3:54 -       Read data from file. 
+[INFO] 2022-08-25 15:06:25.233 Task3:54 -       search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 15:07:38.506 Task3:55 - //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 15:07:38.510 Task3:55 - //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 15:07:38.511 Task3:55 - //      Read data from file. 
+[INFO] 2022-08-25 15:07:38.511 Task3:55 - //      search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 15:10:37.214 Task3:54 - //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 15:10:37.218 Task3:54 - //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 15:10:37.219 Task3:54 - //      Read data from file. 
+[INFO] 2022-08-25 15:10:37.222 Task3:54 - //      search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 15:10:37.224 Task3:57 - [Ljava.lang.String;@c4ed84 
+[INFO] 2022-08-25 15:11:03.284 Task3:54 - String //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 15:11:03.290 Task3:54 - String //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 15:11:03.291 Task3:54 - String //      Read data from file. 
+[INFO] 2022-08-25 15:11:03.291 Task3:54 - String //      search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 15:11:03.292 Task3:57 - [Ljava.lang.String;@c4ed84 
+[INFO] 2022-08-25 16:56:17.071 Task3:56 - //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-25 16:56:17.076 Task3:56 - //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-25 16:56:17.076 Task3:56 - //      Read data from file. 
+[INFO] 2022-08-25 16:56:17.077 Task3:56 - //      search for and display comments from the String that was made from Java source-code file. 
+[INFO] 2022-08-25 17:19:51.235 Task4:26 - 001. Bruno Mars - Locked Out Of Heaven.mp3 (size in bytes: 7480205) 
+[INFO] 2022-08-25 17:19:51.249 Task4:26 - 003. Loverush Uk Vs Maria Nayler - One And One.mp3 (size in bytes: 11530702) 
+[INFO] 2022-08-25 17:19:51.254 Task4:26 - 005. Rita Ora - Shine Ya Light.mp3 (size in bytes: 6753799) 
+[INFO] 2022-08-25 17:19:51.255 Task4:26 - 012. Team Rush Hour Feat. Anong - Hollywood Chick.mp3 (size in bytes: 6196707) 
+[INFO] 2022-08-25 17:19:51.256 Task4:26 - 015. Amna - She Bangs.mp3 (size in bytes: 6823846) 
+[INFO] 2022-08-25 17:19:51.281 Task4:26 - 022. Mandinga - Dame Dame.mp3 (size in bytes: 6748413) 
+[INFO] 2022-08-25 17:19:51.289 Task4:26 - 024. Kesha - Die Young.mp3 (size in bytes: 6807762) 
+[INFO] 2022-08-25 17:19:51.291 Task4:26 - 025. Robbie Williams - Be A Boy.mp3 (size in bytes: 8968100) 
+[INFO] 2022-08-25 17:19:51.292 Task4:26 - 028. Costi - Tanaka.mp3 (size in bytes: 8429844) 
+[INFO] 2022-08-25 17:19:51.293 Task4:26 - 029. Maroon 5 Feat. Christina Aguilera - Moves Like Jagger.mp3 (size in bytes: 6196347) 
+[INFO] 2022-08-25 17:19:51.298 Task4:26 - 031. Idenline - Lonesome.mp3 (size in bytes: 9137774) 
+[INFO] 2022-08-25 17:21:13.483 Task4:26 - 001. Bruno Mars - Locked Out Of Heaven.mp3 (size in bytes: 7480205) 
+[INFO] 2022-08-25 17:21:13.488 Task4:26 - 003. Loverush Uk Vs Maria Nayler - One And One.mp3 (size in bytes: 11530702) 
+[INFO] 2022-08-25 17:21:13.490 Task4:26 - 005. Rita Ora - Shine Ya Light.mp3 (size in bytes: 6753799) 
+[INFO] 2022-08-25 17:21:13.491 Task4:26 - 012. Team Rush Hour Feat. Anong - Hollywood Chick.mp3 (size in bytes: 6196707) 
+[INFO] 2022-08-25 17:21:13.492 Task4:26 - 015. Amna - She Bangs.mp3 (size in bytes: 6823846) 
+[INFO] 2022-08-25 17:21:13.494 Task4:26 - 022. Mandinga - Dame Dame.mp3 (size in bytes: 6748413) 
+[INFO] 2022-08-25 17:21:13.495 Task4:26 - 024. Kesha - Die Young.mp3 (size in bytes: 6807762) 
+[INFO] 2022-08-25 17:21:13.496 Task4:26 - 025. Robbie Williams - Be A Boy.mp3 (size in bytes: 8968100) 
+[INFO] 2022-08-25 17:21:13.497 Task4:26 - 028. Costi - Tanaka.mp3 (size in bytes: 8429844) 
+[INFO] 2022-08-25 17:21:13.498 Task4:26 - 029. Maroon 5 Feat. Christina Aguilera - Moves Like Jagger.mp3 (size in bytes: 6196347) 
+[INFO] 2022-08-25 17:21:13.499 Task4:26 - 031. Idenline - Lonesome.mp3 (size in bytes: 9137774) 
+[INFO] 2022-08-25 17:21:13.499 Task4:26 - ringtones (size in bytes: 8192) 
+[INFO] 2022-08-25 17:25:20.233 Task4:29 - File: 001. Bruno Mars - Locked Out Of Heaven.mp3 (size in bytes: 7480205) 
+[INFO] 2022-08-25 17:25:20.239 Task4:29 - File: 003. Loverush Uk Vs Maria Nayler - One And One.mp3 (size in bytes: 11530702) 
+[INFO] 2022-08-25 17:25:20.240 Task4:29 - File: 005. Rita Ora - Shine Ya Light.mp3 (size in bytes: 6753799) 
+[INFO] 2022-08-25 17:25:20.241 Task4:29 - File: 012. Team Rush Hour Feat. Anong - Hollywood Chick.mp3 (size in bytes: 6196707) 
+[INFO] 2022-08-25 17:25:20.242 Task4:29 - File: 015. Amna - She Bangs.mp3 (size in bytes: 6823846) 
+[INFO] 2022-08-25 17:25:20.243 Task4:29 - File: 022. Mandinga - Dame Dame.mp3 (size in bytes: 6748413) 
+[INFO] 2022-08-25 17:25:20.246 Task4:29 - File: 024. Kesha - Die Young.mp3 (size in bytes: 6807762) 
+[INFO] 2022-08-25 17:25:20.246 Task4:29 - File: 025. Robbie Williams - Be A Boy.mp3 (size in bytes: 8968100) 
+[INFO] 2022-08-25 17:25:20.248 Task4:29 - File: 028. Costi - Tanaka.mp3 (size in bytes: 8429844) 
+[INFO] 2022-08-25 17:25:20.249 Task4:29 - File: 029. Maroon 5 Feat. Christina Aguilera - Moves Like Jagger.mp3 (size in bytes: 6196347) 
+[INFO] 2022-08-25 17:25:20.250 Task4:29 - File: 031. Idenline - Lonesome.mp3 (size in bytes: 9137774) 
+[INFO] 2022-08-25 17:25:20.252 Task4:27 - Folder: ringtones (size in bytes: 8192) 
+[INFO] 2022-08-25 17:25:20.253 Task4:29 - File: ringtones (size in bytes: 8192) 
+[INFO] 2022-08-25 17:25:20.254 Task4:27 - Folder: VA_Best_Ukrainian_Patriot_Songs (size in bytes: 32768) 
+[INFO] 2022-08-25 17:25:20.255 Task4:29 - File: VA_Best_Ukrainian_Patriot_Songs (size in bytes: 32768) 
+[INFO] 2022-08-25 17:25:44.183 Task4:29 - File: 001. Bruno Mars - Locked Out Of Heaven.mp3 (size in bytes: 7480205) 
+[INFO] 2022-08-25 17:25:44.206 Task4:29 - File: 003. Loverush Uk Vs Maria Nayler - One And One.mp3 (size in bytes: 11530702) 
+[INFO] 2022-08-25 17:25:44.211 Task4:29 - File: 005. Rita Ora - Shine Ya Light.mp3 (size in bytes: 6753799) 
+[INFO] 2022-08-25 17:25:44.212 Task4:29 - File: 012. Team Rush Hour Feat. Anong - Hollywood Chick.mp3 (size in bytes: 6196707) 
+[INFO] 2022-08-25 17:25:44.212 Task4:29 - File: 015. Amna - She Bangs.mp3 (size in bytes: 6823846) 
+[INFO] 2022-08-25 17:25:44.213 Task4:29 - File: 022. Mandinga - Dame Dame.mp3 (size in bytes: 6748413) 
+[INFO] 2022-08-25 17:25:44.214 Task4:29 - File: 024. Kesha - Die Young.mp3 (size in bytes: 6807762) 
+[INFO] 2022-08-25 17:25:44.215 Task4:29 - File: 025. Robbie Williams - Be A Boy.mp3 (size in bytes: 8968100) 
+[INFO] 2022-08-25 17:25:44.216 Task4:29 - File: 028. Costi - Tanaka.mp3 (size in bytes: 8429844) 
+[INFO] 2022-08-25 17:25:44.217 Task4:29 - File: 029. Maroon 5 Feat. Christina Aguilera - Moves Like Jagger.mp3 (size in bytes: 6196347) 
+[INFO] 2022-08-25 17:25:44.219 Task4:29 - File: 031. Idenline - Lonesome.mp3 (size in bytes: 9137774) 
+[INFO] 2022-08-25 17:25:44.221 Task4:27 - Folder: ringtones (size in bytes: 8192) 
+[INFO] 2022-08-25 17:25:44.223 Task4:27 - Folder: VA_Best_Ukrainian_Patriot_Songs (size in bytes: 32768) 
+[INFO] 2022-08-25 17:26:03.975 Task4:29 - File: 001. Bruno Mars - Locked Out Of Heaven.mp3 (size in bytes: 7480205) 
+[INFO] 2022-08-25 17:26:03.981 Task4:29 - File: 003. Loverush Uk Vs Maria Nayler - One And One.mp3 (size in bytes: 11530702) 
+[INFO] 2022-08-25 17:26:03.983 Task4:29 - File: 005. Rita Ora - Shine Ya Light.mp3 (size in bytes: 6753799) 
+[INFO] 2022-08-25 17:26:03.984 Task4:29 - File: 012. Team Rush Hour Feat. Anong - Hollywood Chick.mp3 (size in bytes: 6196707) 
+[INFO] 2022-08-25 17:26:03.985 Task4:29 - File: 015. Amna - She Bangs.mp3 (size in bytes: 6823846) 
+[INFO] 2022-08-25 17:26:03.986 Task4:29 - File: 022. Mandinga - Dame Dame.mp3 (size in bytes: 6748413) 
+[INFO] 2022-08-25 17:26:03.987 Task4:29 - File: 024. Kesha - Die Young.mp3 (size in bytes: 6807762) 
+[INFO] 2022-08-25 17:26:03.988 Task4:29 - File: 025. Robbie Williams - Be A Boy.mp3 (size in bytes: 8968100) 
+[INFO] 2022-08-25 17:26:03.989 Task4:29 - File: 028. Costi - Tanaka.mp3 (size in bytes: 8429844) 
+[INFO] 2022-08-25 17:26:03.989 Task4:29 - File: 029. Maroon 5 Feat. Christina Aguilera - Moves Like Jagger.mp3 (size in bytes: 6196347) 
+[INFO] 2022-08-25 17:26:03.991 Task4:29 - File: 031. Idenline - Lonesome.mp3 (size in bytes: 9137774) 
+[INFO] 2022-08-25 17:26:03.992 Task4:27 - Folder: ringtones (size in bytes: 8192) 
+[INFO] 2022-08-25 17:26:03.993 Task4:27 - Folder: VA_Best_Ukrainian_Patriot_Songs (size in bytes: 32768) 
+[INFO] 2022-08-25 18:08:01.901 Task4:24 - File: 001. Bruno Mars - Locked Out Of Heaven.mp3 (size in bytes: 7480205) 
+[INFO] 2022-08-25 18:08:01.907 Task4:24 - File: 003. Loverush Uk Vs Maria Nayler - One And One.mp3 (size in bytes: 11530702) 
+[INFO] 2022-08-25 18:08:01.908 Task4:24 - File: 005. Rita Ora - Shine Ya Light.mp3 (size in bytes: 6753799) 
+[INFO] 2022-08-25 18:08:01.910 Task4:24 - File: 012. Team Rush Hour Feat. Anong - Hollywood Chick.mp3 (size in bytes: 6196707) 
+[INFO] 2022-08-25 18:08:01.912 Task4:24 - File: 015. Amna - She Bangs.mp3 (size in bytes: 6823846) 
+[INFO] 2022-08-25 18:08:01.914 Task4:24 - File: 022. Mandinga - Dame Dame.mp3 (size in bytes: 6748413) 
+[INFO] 2022-08-25 18:08:01.916 Task4:24 - File: 024. Kesha - Die Young.mp3 (size in bytes: 6807762) 
+[INFO] 2022-08-25 18:08:01.917 Task4:24 - File: 025. Robbie Williams - Be A Boy.mp3 (size in bytes: 8968100) 
+[INFO] 2022-08-25 18:08:01.918 Task4:24 - File: 028. Costi - Tanaka.mp3 (size in bytes: 8429844) 
+[INFO] 2022-08-25 18:08:01.920 Task4:24 - File: 029. Maroon 5 Feat. Christina Aguilera - Moves Like Jagger.mp3 (size in bytes: 6196347) 
+[INFO] 2022-08-25 18:08:01.921 Task4:24 - File: 031. Idenline - Lonesome.mp3 (size in bytes: 9137774) 
+[INFO] 2022-08-25 18:08:01.924 Task4:22 - Folder: ringtones (size in bytes: 8192) 
+[INFO] 2022-08-25 18:08:01.926 Task4:22 - Folder: VA_Best_Ukrainian_Patriot_Songs (size in bytes: 32768) 
+[INFO] 2022-08-25 18:08:15.743 Task5:19 - Initial User: User{name='Alex', age=40} 
+[INFO] 2022-08-25 18:08:15.787 Task5:22 - Loaded User from file: User{name='Alex', age=40} 
+[INFO] 2022-08-25 18:08:39.264 Task5:19 - Initial User: User{name='Alex', age=40} 
+[ERROR] 2022-08-25 18:08:39.347 Task5:36 - IOException in serialize() 
+[ERROR] 2022-08-25 18:08:39.360 Task5:61 - IOException in deserialize() 
+[INFO] 2022-08-25 18:08:39.365 Task5:22 - Loaded User from file: null 
+[INFO] 2022-08-25 18:09:06.930 Task5:19 - Initial User: User{name='Alex', age=40} 
+[INFO] 2022-08-25 18:09:06.963 Task5:22 - Loaded User from file: User{name='Alex', age=40} 
+[INFO] 2022-08-25 18:09:56.143 Task5:19 - Initial User: User{name='Alex', age=40} 
+[INFO] 2022-08-25 18:09:56.169 Task5:22 - Loaded User from file: User{name='Alex', age=40} 
+[INFO] 2022-08-25 19:58:12.145 SomeBuffer:27 - 
+Write: Some message from Alex 
+[INFO] 2022-08-25 19:58:12.160 SomeBuffer:41 - Read: Some message from Alex 
+[INFO] 2022-08-25 19:58:38.429 SomeBuffer:27 - 
+Write: Some message from Alex 
+[INFO] 2022-08-25 19:58:38.447 SomeBuffer:41 - 
+Read: Some message from Alex 
+[INFO] 2022-08-25 20:11:17.868 Task2:46 - File without buffer reads : 42365 milliseconds 
+[INFO] 2022-08-25 20:11:18.006 Task2:66 - EOF exception in input stream in readFromFile200MbWithBuffer() 
+[INFO] 2022-08-25 20:11:18.007 Task2:71 - File with buffer (size 16384) reads : 136 milliseconds 
+[INFO] 2022-08-26 10:41:04.760 Task2:46 - File without buffer reads : 43118 milliseconds 
+[INFO] 2022-08-26 10:41:04.892 Task2:66 - EOF exception in input stream in readFromFile200MbWithBuffer() 
+[INFO] 2022-08-26 10:41:04.892 Task2:71 - File with buffer (size 16384) reads : 132 milliseconds 
+[INFO] 2022-08-26 10:42:26.511 Task2:36 - IO Exception in output stream 
+[INFO] 2022-08-26 10:42:26.511 Task2:39 - File without buffer reads : 31 milliseconds 
+[INFO] 2022-08-26 10:42:26.611 Task2:59 - EOF exception in input stream in readFromFile200MbWithBuffer() 
+[INFO] 2022-08-26 10:42:26.611 Task2:64 - File with buffer (size 16384) reads : 100 milliseconds 
+[INFO] 2022-08-26 10:45:33.858 Task2:47 - File without buffer reads : 41259 milliseconds 
+[INFO] 2022-08-26 10:45:33.936 Task2:67 - EOF exception in input stream in readFromFile200MbWithBuffer() 
+[INFO] 2022-08-26 10:45:33.936 Task2:72 - File with buffer (size 16384) reads : 78 milliseconds 
+[INFO] 2022-08-26 10:49:23.491 Task2:47 - File without buffer reads : 41547 milliseconds 
+[INFO] 2022-08-26 10:49:23.506 Task2:72 - File with buffer (size 16384) reads : 0 milliseconds 
+[INFO] 2022-08-26 10:51:51.038 Task2:47 - File without buffer reads : 42016 milliseconds 
+[INFO] 2022-08-26 10:51:51.107 Task2:67 - EOF exception in input stream in readFromFile200MbWithBuffer() 
+[INFO] 2022-08-26 10:51:51.107 Task2:72 - File with buffer (size 16384) reads : 69 milliseconds 
+[INFO] 2022-08-26 10:53:51.825 Task2:47 - File without buffer reads : 42614 milliseconds 
+[INFO] 2022-08-26 10:53:51.918 Task2:76 - File with buffer (size 16384) reads : 87 milliseconds 
