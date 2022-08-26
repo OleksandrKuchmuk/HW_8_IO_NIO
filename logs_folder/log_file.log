@@ -355,3 +355,5 @@ Read: Some message from Alex
 [INFO] 2022-08-26 11:15:53.737 Task4:24 - File: 031. Idenline - Lonesome.mp3 (size in bytes: 9137774) 
 [INFO] 2022-08-26 11:15:53.738 Task4:22 - Folder: ringtones 
 [INFO] 2022-08-26 11:15:53.738 Task4:22 - Folder: VA_Best_Ukrainian_Patriot_Songs 
+[INFO] 2022-08-26 11:16:58.979 Task5:18 - Initial User: User{name='Alex', age=40} 
+[INFO] 2022-08-26 11:16:59.009 Task5:21 - Loaded User from file: User{name='Alex', age=40} 
