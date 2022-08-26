@@ -191,3 +191,7 @@ Read: Some message from Alex
 [INFO] 2022-08-26 10:51:51.107 Task2:72 - File with buffer (size 16384) reads : 69 milliseconds 
 [INFO] 2022-08-26 10:53:51.825 Task2:47 - File without buffer reads : 42614 milliseconds 
 [INFO] 2022-08-26 10:53:51.918 Task2:76 - File with buffer (size 16384) reads : 87 milliseconds 
+[INFO] 2022-08-26 11:00:52.793 Task3:56 - //      Write a program that reads a Java source-code file (you provide the file 
+[INFO] 2022-08-26 11:00:52.797 Task3:56 - //      name on the command line) and displays to console all the comments in file. 
+[INFO] 2022-08-26 11:00:52.798 Task3:56 - //      Read data from file. 
+[INFO] 2022-08-26 11:00:52.798 Task3:56 - //      search for and display comments from the String that was made from Java source-code file. 
